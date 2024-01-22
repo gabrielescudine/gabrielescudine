@@ -18,9 +18,8 @@
 
 <span style="font-size: 20px;"><strong>Programming Language</strong></span>
 <div style="display:inline-block; padding-left: 5px;">
-<img align="center" alt="Logo-HTML" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-<img align="center" alt="Logo-CSS" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-<abbr title="Learning at this moment."><img align="center" alt="Logo-JS" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></abbr>
+<img align="center" alt="Logo-HTML" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">|<img align="center" alt="Logo-CSS" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">|<abbr title="Learning at this moment."><img align="center" alt="Logo-JS" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></abbr>
+|--|--|--|--|--|
 </div>
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 &nbsp;
