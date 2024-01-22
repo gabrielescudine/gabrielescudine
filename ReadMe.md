@@ -16,7 +16,7 @@
 
 
 ## Skill Set 🧑‍💻:
-<p style="font-size=50;">Below are some of the technologies I am currently learning.</p>
+<p style="font-size=50px;">Below are some of the technologies I am currently learning.</p>
 
 **Programming Language**
 <div style="display:inline-block; border=1px solid black;">
