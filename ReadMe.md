@@ -16,14 +16,13 @@
 
 
 ## Skill Set:
-<p font-size="2em">Below are some of the technologies I am currently learning. 🧑‍💻</p>
+<p style="font-size=1.5em;">Below are some of the technologies I am currently learning. 🧑‍💻</p>
 
 **Programming Language**
-<div style="display:inline-block;">
+<div style="display:inline-block; border=1px solid black;">
 <img align="center" alt="Logo-HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 <img align="center" alt="Logo-CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 <abbr title="Learning at this moment."><img align="center" alt="Logo-JS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></abbr>
-|--|--|--|--|--|
 </div>
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
