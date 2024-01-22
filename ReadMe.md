@@ -15,8 +15,8 @@
  &nbsp;
 
 
-##Skill Set:
-<p>Below are some of the technologies I am currently learning. &#x1F9D1;</p>
+## Skill Set:
+<p font-size="1.5em">Below are some of the technologies I am currently learning. &#x1F9D1;</p>
 
 **Programming Language**
 <div style="display:inline-block;">
