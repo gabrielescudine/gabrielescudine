@@ -4,8 +4,6 @@
 
 [![MasterHead](https://github.com/gabrielescudine/gabrielescudine/blob/main/banner_github.gif)](https://github.com/gabrielescudine/gabrielescudine/blob/main/banner_github.gif)
 
-## Olá, por enquanto este perfil está em desenvolvimento.
-
 <div  align="left" style="margin-bottom:100px">
 <img width=42% align="center"  src="https://github-readme-streak-stats.herokuapp.com/?user=gabrielescudine&theme=algolia&hide_border=false" />
 <img width=40% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielescudine&theme=algolia&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
@@ -19,13 +17,12 @@
 <p style="font-size:25;">Below are some of the technologies I am currently learning.</p>
 
 **Programming Language**
-<div style="display:inline-block; border: 5 solid white;">
-<img align="center" alt="Logo-HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-<img align="center" alt="Logo-CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-<abbr title="Learning at this moment."><img align="center" alt="Logo-JS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></abbr>
+<div style="display:inline-block; padding: 0 5 0 0">
+<img align="center" alt="Logo-HTML" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+<img align="center" alt="Logo-CSS" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+<abbr title="Learning at this moment."><img align="center" alt="Logo-JS" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></abbr>
 </div>
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
-
 &nbsp;
 
 ## Let's Connect! 🙋‍♂️
