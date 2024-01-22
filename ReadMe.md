@@ -16,7 +16,7 @@
 ## Skill Set 🧑‍💻:
 <p style="font-size:25;">Below are some of the technologies I am currently learning.</p>
 
-<p><strong>Programming Language</strong></p>
+<p style="font-size: 20"><strong>Programming Language</strong></p>
 <div style="display:inline-block; padding-left: 5px;">
 <img align="center" alt="Logo-HTML" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 <img align="center" alt="Logo-CSS" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
