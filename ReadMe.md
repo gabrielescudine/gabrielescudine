@@ -2,7 +2,7 @@
 
 <!--END_SECTION:waka-->
 
-[![MasterHead](gabrielescudine/gabrielescudine/banner_github.gif)](gabrielescudine/gabrielescudine/banner_github.gif)
+[![MasterHead](https://github.com/gabrielescudine/gabrielescudine/blob/main/banner_github.gif)](https://github.com/gabrielescudine/gabrielescudine/blob/main/banner_github.gif)
 
 ## Olá, por enquanto este perfil está em desenvolvimento.
 
