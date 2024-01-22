@@ -16,10 +16,10 @@
 
 
 ## Skill Set 🧑‍💻:
-<p style="font-size=50px;">Below are some of the technologies I am currently learning.</p>
+<p style="font-size:2em;">Below are some of the technologies I am currently learning.</p>
 
 **Programming Language**
-<div style="display:inline-block; border=1px solid black;">
+<div style="display:inline-block; border: 1px solid black;">
 <img align="center" alt="Logo-HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 <img align="center" alt="Logo-CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 <abbr title="Learning at this moment."><img align="center" alt="Logo-JS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></abbr>
