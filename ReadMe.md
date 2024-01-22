@@ -1,3 +1,9 @@
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->
+
+[![MasterHead](gabrielescudine/gabrielescudine/banner_github.gif)]
+
 ## Olá, por enquanto este perfil está em desenvolvimento.
 
 <div  align="left" style="margin-bottom:100px">
@@ -35,7 +41,6 @@
 ## Contacts:
 
 <div> 
-<a href="https://www.instagram.com/gabrielescudine/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 <a href = "mailto:gabrielescudine.05@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/gabrieljoffilyescudine/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>&nbsp;&nbsp;
