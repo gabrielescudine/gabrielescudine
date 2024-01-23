@@ -25,6 +25,11 @@
 <img title="git" alt="git" width="50px" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png">
 </div>
 
+&nbsp;
+
+## GitHub Stats 📊
+
+
 ## Let's Connect! 🙋‍♂️
 
 <div> 
