@@ -1,11 +1,5 @@
-<!--START_SECTION:waka-->
-
-<!--END_SECTION:waka-->
-
 [![MasterHead](https://github.com/gabrielescudine/gabrielescudine/blob/main/banner_github.gif)](https://github.com/gabrielescudine/gabrielescudine/blob/main/banner_github.gif)
 
- 
- &nbsp;
  &nbsp;
 
 
@@ -30,15 +24,16 @@
 ## GitHub Stats 📊
 <p align="center">
 <img title="GitHub Stats" alt="GitHub Stats" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=gabrielescudine&theme=dracula">
-<img title="GitHub Streak Stats" alt="GitHub Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=gabrielescudine&theme=dracula">
+<!-- <img title="GitHub Streak Stats" alt="GitHub Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=gabrielescudine&theme=dracula"> -->
 <img title="GitHub Summary Card" alt="GitHub Summary Card" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gabrielescudine&theme=dracula">
 </p>
 
 ## Let's Connect! 🙋‍♂️
 
 <div> 
-<a href = "mailto:gabrielescudine.05@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white" width="100"></a>
-<a href="https://www.linkedin.com/in/gabrieljoffilyescudine/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" width="130"></a> 
+<a href = "mailto:gabrielescudine.05@gmail.com" target="_blank"><img src="https://github.com/gabrielescudine/gabrielescudine/assets/78106309/304aa801-9fda-4f1b-94af-5b8b3acb3f14" width="40"></a> &nbsp;
+<a href="https://www.linkedin.com/in/gabrieljoffilyescudine/" target="_blank"><img src="https://github.com/gabrielescudine/gabrielescudine/assets/78106309/ab09a66c-ea10-46cf-95ec-23a423846cd1" width="40"></a> 
+
 </div>&nbsp;&nbsp;
 
 &nbsp;
