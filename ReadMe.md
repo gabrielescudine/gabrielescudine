@@ -28,11 +28,11 @@
 &nbsp;
 
 ## GitHub Stats 📊
-
-<!--<img title="GitHub Stats" alt="GitHub Stats" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=gabrielescudine&theme=dracula">-->
-<!--<img title="GitHub Streak Stats" alt="GitHub Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=gabrielescudine&theme=dracula"> -->
+<p align="center">
+<img title="GitHub Stats" alt="GitHub Stats" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=gabrielescudine&theme=dracula">
+<img title="GitHub Streak Stats" alt="GitHub Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=gabrielescudine&theme=dracula">
 <img title="GitHub Summary Card" alt="GitHub Summary Card" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gabrielescudine&theme=dracula">
-
+</p>
 
 ## Let's Connect! 🙋‍♂️
 
